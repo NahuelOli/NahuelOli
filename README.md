@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NahuelOli
 - 👀 I’m interested in learning everything about code
-- 🌱 I’m currently learning how to use git and github
+- 🌱 I’m currently studying at INSPT-UTN in Argentina.
 - 💞️ I’m looking to collaborate on any industry that wants somenone that's learning to code.
 - 📫 How to reach me nahuolivera55@gmail.com
 
